@@ -16,9 +16,9 @@ def traducirHTML(archivoXML, archivoHTML):
     root = tree.getroot()
     # Vamos a crear un string que contenga el contenido del documento html y luego lo escribiremos al archivo
     html = "<!DOCTYPE HTML>" + "<html lang='es'>" + \
-           "<head><link rel='stylesheet' type='text/css' href='estilo.css' />" + \
+           "<head><link rel='stylesheet' type='text/css' href='estilo.css' >" + \
            "<title>Red social</title>" + \
-           " <meta charset='UTF-8' /> <meta name='author' content='Miguel Suárez Artime'>" + \
+           " <meta charset='UTF-8' > <meta name='author' content='Miguel Suárez Artime'>" + \
            " <meta name ='viewport' content ='width=device-width, initial-scale=1.0'>" + \
            "</head>" + \
            "<body>"
