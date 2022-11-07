@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE personas SYSTEM "arbol.dtd">
+<personas>
+  <persona nombre="Miguel" apellidos="Suárez Artime">
+    <datos>
+      <fechaNacimiento>2000-05-22</fechaNacimiento>
+      <lugarNacimiento>Gijón</lugarNacimiento>
+      <coordenadasNacimiento>
+        <longitud>43.54387392</longitud>
+        <latitud>-5.69899438</latitud>
+        <altitud>relativeToGround</altitud>
+      </coordenadasNacimiento>
+      <lugarResidencia>Gozón</lugarResidencia>
+      <coordenadasResidencia>
+        <longitud>43.6132754686</longitud>
+        <latitud> -5.79308104997</latitud>
+        <altitud>relativeToGround</altitud>
+      </coordenadasResidencia>
+      <fotografia>fotoMiguelYo.jpg</fotografia>
+      <comentario>Yo, el autor de este documento</comentario>
+    </datos>
+    <persona nombre="David" apellidos="Santos Miguelez">
+      <datos>
+        <fechaNacimiento>1998-12-18</fechaNacimiento>
+        <lugarNacimiento>León</lugarNacimiento>
+        <coordenadasNacimiento>
+          <longitud>42.59886721564629 </longitud>
+          <latitud>-5.586187949867192</latitud>
+          <altitud>relativeToGround</altitud>
+        </coordenadasNacimiento>
+        <lugarResidencia>Gijón</lugarResidencia>
+        <coordenadasResidencia>
+          <longitud>43.534783268698554 </longitud>
+          <latitud> -5.675321537567297</latitud>
+          <altitud>relativeToGround</altitud>
+        </coordenadasResidencia>
+        <fotografia>fotoDavid.jpg</fotografia>
+        <comentario>David, un amigo leonés</comentario>
+      </datos>
+      <persona nombre="Manuel" apellidos="García Sierra">
+        <datos>
+          <fechaNacimiento>1999-08-23</fechaNacimiento>
+          <lugarNacimiento>Madrid</lugarNacimiento>
+          <coordenadasNacimiento>
+            <longitud>40.4044142337122 </longitud>
+            <latitud>-3.7035781610332226</latitud>
+            <altitud>relativeToGround</altitud>
+          </coordenadasNacimiento>
+          <lugarResidencia>Oviedo</lugarResidencia>
+          <coordenadasResidencia>
+            <longitud>43.35887363314925  </longitud>
+            <latitud> -5.851576577408213</latitud>
+            <altitud>relativeToGround</altitud>
+          </coordenadasResidencia>
+          <fotografia>fotoMeru.jpg</fotografia>
+          <comentario> Manuel, un amigo de David</comentario>
+        </datos>
+      </persona>
+      <persona nombre="Antonio" apellidos="González Miguelez">
+        <datos>
+          <fechaNacimiento>1999-01-01</fechaNacimiento>
+          <lugarNacimiento>Oviedo</lugarNacimiento>
+          <coordenadasNacimiento>
+            <longitud>43.37384891682786 </longitud>
+            <latitud>-5.868914376202027</latitud>
+            <altitud>relativeToGround</altitud>
+          </coordenadasNacimiento>
+          <lugarResidencia>Oviedo</lugarResidencia>
+          <coordenadasResidencia>
+            <longitud>43.35887363314925  </longitud>
+            <latitud> -5.851576577408213</latitud>
+            <altitud>relativeToGround</altitud>
+          </coordenadasResidencia>
+          <fotografia>fotoAntonio.jpg</fotografia>
+          <comentario> Antonio, un amigo de David</comentario>
+        </datos>
+      </persona>
+      <persona nombre="Adrián" apellidos="López García">
+        <datos>
+          <fechaNacimiento>1999-12-13</fechaNacimiento>
+          <lugarNacimiento>Gijón</lugarNacimiento>
+          <coordenadasNacimiento>
+            <longitud>43.53177349755274  </longitud>
+            <latitud>-5.74690285633709</latitud>
+            <altitud>relativeToGround</altitud>
+          </coordenadasNacimiento>
+          <lugarResidencia>Gijón</lugarResidencia>
+          <coordenadasResidencia>
+            <longitud>43.5185110028355</longitud>
+            <latitud> -5.660756857389396 </latitud>
+            <altitud>relativeToGround</altitud>
+          </coordenadasResidencia>
+          <fotografia>fotoAdri.jpg</fotografia>
+          <comentario> Adri, un amigo de David</comentario>
+        </datos>
+      </persona>
+    </persona>
+    <persona nombre="Nicolás" apellidos="Lozano García">
+      <datos>
+        <fechaNacimiento>2000-03-21</fechaNacimiento>
+        <lugarNacimiento>Gijón</lugarNacimiento>
+        <coordenadasNacimiento>
+          <longitud>43.5447382070970</longitud>
+          <latitud>-5.710855442025905</latitud>
+          <altitud>relativeToGround</altitud>
+        </coordenadasNacimiento>
+        <lugarResidencia>Carreño</lugarResidencia>
+        <coordenadasResidencia>
+          <longitud>43.581685462174 </longitud>
+          <latitud> -5.769302594502799</latitud>
+          <altitud>relativeToGround</altitud>
+        </coordenadasResidencia>
+        <fotografia>fotoNico.jpg</fotografia>
+        <comentario> Nicolás, un amigo de Candás</comentario>
+      </datos>
+      <persona nombre="Pablo" apellidos="González Rodriguez">
+        <datos>
+          <fechaNacimiento>2000-07-16</fechaNacimiento>
+          <lugarNacimiento>Gijón</lugarNacimiento>
+          <coordenadasNacimiento>
+            <longitud>43.5447382070970</longitud>
+            <latitud>-5.710855442025905</latitud>
+            <altitud>relativeToGround</altitud>
+          </coordenadasNacimiento>
+          <lugarResidencia>Carreño</lugarResidencia>
+          <coordenadasResidencia>
+            <longitud>43.58701807623906 </longitud>
+            <latitud> -5.766351170578199</latitud>
+            <altitud>relativeToGround</altitud>
+          </coordenadasResidencia>
+          <fotografia>fotoPablo.jpg</fotografia>
+          <comentario> Pablo, un amigo de Nicolás</comentario>
+        </datos>
+      </persona>
+      <persona nombre="Rubén" apellidos="Rodríguez Rodríguez">
+        <datos>
+          <fechaNacimiento>2000-12-15</fechaNacimiento>
+          <lugarNacimiento>Gijón</lugarNacimiento>
+          <coordenadasNacimiento>
+            <longitud>43.5447382070970</longitud>
+            <latitud>-5.710855442025905</latitud>
+            <altitud>relativeToGround</altitud>
+          </coordenadasNacimiento>
+          <lugarResidencia>Carreño</lugarResidencia>
+          <coordenadasResidencia>
+            <longitud>43.5820981918341 </longitud>
+            <latitud> -5.764053854533636</latitud>
+            <altitud>relativeToGround</altitud>
+          </coordenadasResidencia>
+          <fotografia>fotoRuben.jpg</fotografia>
+          <comentario> Ruben, un amigo de Nicolás</comentario>
+        </datos>
+      </persona>
+      <persona nombre="Miguel" apellidos="Plaza Arce">
+        <datos>
+          <fechaNacimiento>2000-07-24</fechaNacimiento>
+          <lugarNacimiento>Gijón</lugarNacimiento>
+          <coordenadasNacimiento>
+            <longitud>43.5447382070970</longitud>
+            <latitud>-5.710855442025905</latitud>
+            <altitud>relativeToGround</altitud>
+          </coordenadasNacimiento>
+          <lugarResidencia>Carreño</lugarResidencia>
+          <coordenadasResidencia>
+            <longitud>43.59110040099521</longitud>
+            <latitud>-5.763098654576742</latitud>
+            <altitud>relativeToGround</altitud>
+          </coordenadasResidencia>
+          <fotografia>fotoMaikol.jpg</fotografia>
+          <comentario> Miguel Plaza, un amigo de Nicolás</comentario>
+        </datos>
+      </persona>
+      
+  </persona>
+    <persona nombre="Manuel" apellidos="García García">
+      <datos>
+        <fechaNacimiento>1997-08-06</fechaNacimiento>
+        <lugarNacimiento>Gijón</lugarNacimiento>
+        <coordenadasNacimiento>
+          <longitud>43.5447382070970</longitud>
+          <latitud>-5.710855442025905</latitud>
+          <altitud>relativeToGround</altitud>
+        </coordenadasNacimiento>
+        <lugarResidencia>Gijón</lugarResidencia>
+        <coordenadasResidencia>
+          <longitud>43.52492870308615 </longitud>
+          <latitud> -5.660756857389396</latitud>
+          <altitud>relativeToGround</altitud>
+        </coordenadasResidencia>
+        <fotografia>fotoManu.jpg</fotografia>
+        <comentario> Manu, un amigo escalador</comentario>
+      </datos>
+      <persona nombre="Nicolás" apellidos="Eguen García">
+        <datos>
+          <fechaNacimiento>1994-10-15</fechaNacimiento>
+          <lugarNacimiento>Gijón</lugarNacimiento>
+          <coordenadasNacimiento>
+            <longitud>43.5447382070970</longitud>
+            <latitud>-5.710855442025905</latitud>
+            <altitud>relativeToGround</altitud>
+          </coordenadasNacimiento>
+          <lugarResidencia>Gijón</lugarResidencia>
+          <coordenadasResidencia>
+            <longitud>43.53531621588867  </longitud>
+            <latitud> -5.640019208791536</latitud>
+            <altitud>relativeToGround</altitud>
+          </coordenadasResidencia>
+          <fotografia>fotoNicoPunch.jpg</fotografia>
+          <comentario> Nico, un amigo escalador de Manu</comentario>
+        </datos>
+      </persona>
+      <persona nombre="Ainhoa" apellidos="Solís García">
+        <datos>
+          <fechaNacimiento>1997-02-28</fechaNacimiento>
+          <lugarNacimiento>Gijón</lugarNacimiento>
+          <coordenadasNacimiento>
+            <longitud>43.5447382070970</longitud>
+            <latitud>-5.710855442025905</latitud>
+            <altitud>relativeToGround</altitud>
+          </coordenadasNacimiento>
+          <lugarResidencia>Barcelona</lugarResidencia>
+          <coordenadasResidencia>
+            <longitud>43.53334221162192 </longitud>
+            <latitud> -5.653920370457444 </latitud>
+            <altitud>relativeToGround</altitud>
+          </coordenadasResidencia>
+          <fotografia>fotoAino.jpg</fotografia>
+          <comentario> Aino, la novia de Manu</comentario>
+        </datos>
+      </persona>
+      <persona nombre="Andrea" apellidos="López Ruíz">
+        <datos>
+          <fechaNacimiento>1996-01-30</fechaNacimiento>
+          <lugarNacimiento>Gijón</lugarNacimiento>
+          <coordenadasNacimiento>
+            <longitud>43.5447382070970</longitud>
+            <latitud>-5.710855442025905</latitud>
+            <altitud>relativeToGround</altitud>
+          </coordenadasNacimiento>
+          <lugarResidencia>Oviedo</lugarResidencia>
+          <coordenadasResidencia>
+            <longitud>43.37306198345989  </longitud>
+            <latitud> -5.841135108268101</latitud>
+            <altitud>relativeToGround</altitud>
+          </coordenadasResidencia>
+          <fotografia>fotoAndrea.jpg</fotografia>
+          <comentario> Andrea, una amiga de Manu</comentario>
+        </datos>
+      </persona>
+    </persona>
+    </persona>
+</personas>

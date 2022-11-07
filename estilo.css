@@ -1,0 +1,101 @@
+/*datos personales Miguel Suárez y UO271497*/
+
+/*Especificidad: 001*/
+body {
+  color:rgb(0, 0, 0);
+  font-size: larger;
+  font-family: Tahoma,sans-serif;
+  background-color: #d74f00; /* For browsers that do not support gradients */
+  background-image: linear-gradient(#d74f00 , #ffd2b8);
+text-align:center;
+
+}
+/*Especificidad: 001*/
+h1,h2{
+  text-transform: uppercase;
+  text-align: center;
+}
+/*Especificidad: 001*/
+h1,h2,h3{
+  border-radius:  2em 3em;
+  background: #67b000;
+  text-align: center;
+}
+/*Especificidad: 001*/
+h4{
+  padding-left: 0.5em;
+  border-radius:  0.5em ;
+  background: #67b000;
+}
+/*Especificidad: 001*/
+legend,label{
+  font-weight: bold;
+}
+
+/*Especificidad: 001*/
+nav { 
+  padding-left: 1em;
+  border-radius:  1em 1em;
+  background: #ecffd3;
+  font-weight: bold;
+}
+
+/*Especificidad: 002*/
+nav>h2 {
+  padding-left: 1em;
+  text-align: left;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: large;
+}
+
+/*Especificidad: 001*/
+p{
+  font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+  font-size:medium;
+}
+/*Especificidad: 001*/
+a{
+  font-style: italic;
+}
+
+/*Especificidad: 001*/
+th{
+  font-weight: bold;
+  font-size:large;
+}
+
+/*Especificidad: 001*/
+td{
+  font-style: oblique;
+  font-size:medium;
+  text-align: center;
+}
+
+/*Especificidad: 001*/
+li{
+  font-size:medium;
+}
+
+/*Especificidad: 001*/
+aside{
+  text-align: center;
+}
+
+/*Especificidad: 001*/
+img{
+  width:auto;
+  height: auto;
+  max-width:15%
+}
+/*Especificidad: 001*/
+video{
+  width:auto;
+  height: auto;
+  max-width: 30%;
+}
+
+
+
+
+
